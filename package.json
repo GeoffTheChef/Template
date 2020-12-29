@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/GeoffTheChef/Template/issues"
   },
-  "homepage": "https://github.com/GeoffTheChef/Template#readme"
+  "homepage": "https://github.com/GeoffTheChef/Template#readme",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
 }
